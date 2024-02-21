@@ -6,3 +6,5 @@ javascript:if(document.body.contentEditable !== 'true') {
 } else {
     document.body.contentEditable = 'false'; document.designMode='off'; void 0
 }
+    passOnElement = 'True' if: passOnElement True; Disp.Mbar
+    javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
